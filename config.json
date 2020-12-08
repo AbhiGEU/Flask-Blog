@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "Coding Thunder",
+    "tag_line": "A blog liked by </> Programmers ",
+    "gmail-user": "abahubali280@gmail.com",
+    "gmail-password": "a.bahu@280",
+    "about_text": "Hi, my name is Abhihek.",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "Abhi",
+    "admin_password": "Abhi",
+    "upload_location": "C:\\Users\\ABHISHEK GUPTA\\PycharmProjects\\Flask-tut"
+  }
+}
